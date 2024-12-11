@@ -1,0 +1,2 @@
+export const ADD_NEW_ACCOUNT = "ADD_NEW_ACCOUNT";
+export const ADD_NEW_MOVEMENT = "ADD_NEW_MOVEMENT";
